@@ -1,1 +1,3 @@
-See my personal website! https://majdaloj.github.io/  
+See my personal website! 
+
+https://majdaloj.github.io/  
